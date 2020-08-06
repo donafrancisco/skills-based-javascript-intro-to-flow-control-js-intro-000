@@ -1,7 +1,7 @@
 function basicTeenager(age) {
+  return
   if (age > 13 && age < 19)
-  {return "You are a teenager!"}
-  return undefined
+  { console.log("You are a teenager!") }
 
 
 }
